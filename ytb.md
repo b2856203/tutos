@@ -11,6 +11,7 @@ Voici ce que je suggère :
 - Série 2
 - Série 3
 - Sélection de chaines
+
 Pour que les viewers sachent quelle vidéo regarder
 
 Voici pour exemple ([chaine de fuzeIII](https://youtube.com/fuzeiii)) :
