@@ -31,4 +31,9 @@ Voici pour exemple ([chaine de fuzeIII](https://youtube.com/fuzeiii)) :
 ### Branding
 Pas grand chose à dire, faites une banniere et une icone intéressante et décente
 ### A propos
+#### Description
+Faites une description complete qui précise tout sur vous.
+
+![Description](https://i.imgur.com/1sVb2YT.png)
+
 ## Vidéos
