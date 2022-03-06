@@ -13,6 +13,8 @@ Voici ce que je suggère :
 - Sélection de chaines
 Pour que les viewers sachent quelle vidéo regarder
 
+Voici pour exemple ([chaine de fuzeIII](https://youtube.com/fuzeiii)) :
+
 ![Vidéos mises en ligne](https://i.imgur.com/uMolpwC.png)
 
 ![Vidéos populaires](https://i.imgur.com/3A3G9cM.png)
