@@ -11,6 +11,20 @@ Voici ce que je suggère :
 - Série 2
 - Série 3
 - Sélection de chaines
+Pour que les viewers sachent quelle vidéo regarder
+
+![Vidéos mises en ligne](https://i.imgur.com/uMolpwC.png)
+
+![Vidéos populaires](https://i.imgur.com/3A3G9cM.png)
+
+![Série 1](https://i.imgur.com/rWqCOsk.png)
+
+![Série 2](https://i.imgur.com/AjkagQG.png)
+
+![Série 3](https://i.imgur.com/sSHsTRe.png)
+
+![Sélection de chaines](https://i.imgur.com/nWXXuSr.png)
+
 ### Branding
 ### A propos
 ## Vidéos
