@@ -29,5 +29,6 @@ Voici pour exemple ([chaine de fuzeIII](https://youtube.com/fuzeiii)) :
 ![Sélection de chaines](https://i.imgur.com/nWXXuSr.png)
 
 ### Branding
+Pas grand chose à dire, faites une banniere et une icone intéressante et décente
 ### A propos
 ## Vidéos
